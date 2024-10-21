@@ -2,4 +2,6 @@
 
 ### How to start generating sheets?
 
-`py start.py`
+`py start.py 50`
+
+Will generate 50 sheets each sheet have 2 Bingo
