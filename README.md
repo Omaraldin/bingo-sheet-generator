@@ -2,4 +2,4 @@
 
 ### How to start generating sheets?
 
-``py start.py`
+`py start.py`
